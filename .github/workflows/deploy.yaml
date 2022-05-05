@@ -3,7 +3,7 @@ name: Deploy Fipe
 on:
   push:
     branches:
-      - master
+      - main
   create:
     tags:
       - v*
