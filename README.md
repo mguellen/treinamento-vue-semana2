@@ -1,4 +1,4 @@
-# fipe
+# Projeto Treinamento VUE - Semana 2
 
 ## Project setup
 ```
